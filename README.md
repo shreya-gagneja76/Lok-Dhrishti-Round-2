@@ -1,4 +1,4 @@
-# 🏛️ Drishti – AI-Powered Governance Intelligence Platform
+#  Drishti – AI-Powered Governance Intelligence Platform
 
 **Drishti** is a full-stack web application designed to help citizens register grievances and enable authorities to track, analyze, and respond to issues efficiently.  
 The project demonstrates a **modern governance-tech architecture** using a React frontend and a FastAPI backend.
@@ -7,7 +7,7 @@ This repository contains **both frontend and backend** code in a single project 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Government grievance systems often suffer from:
 - Manual and delayed complaint handling
@@ -19,7 +19,7 @@ Government grievance systems often suffer from:
 
 ---
 
-## 💡 Solution Overview
+## Solution Overview
 
 Drishti allows users to:
 - Log in using a simple username
@@ -32,7 +32,7 @@ The system is built to be **scalable**, **clean**, and **future-ready for AI int
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js (Create React App)**
@@ -52,7 +52,7 @@ The system is built to be **scalable**, **clean**, and **future-ready for AI int
 
 ---
 
-## 📁 Project Structure (As-Is)
+##  Project Structure (As-Is)
 
 
 DRISHTIPROJECT/
@@ -75,12 +75,12 @@ DRISHTIPROJECT/
 ├── .gitignore
 └── README.md
 
-> ⚠️ Note:  
+>  Note:  
 > `node_modules` and `venv` are excluded using `.gitignore` and are not part of the repository.
 
 ---
 
-## 🔄 Application Workflow (Step-by-Step)
+##  Application Workflow (Step-by-Step)
 
 1. User opens the application
 2. User logs in using a **username only**
@@ -97,7 +97,7 @@ DRISHTIPROJECT/
 
 ---
 
-## 🔁 Flowchart (Judges-Friendly)
+## Flowchart (Judges-Friendly)
 
 [ User ]
 |
@@ -125,7 +125,7 @@ v
 
 ---
 
-## 📊 Complaint Data Model
+##  Complaint Data Model
 
 Each complaint is stored in the following structure:
 
@@ -141,7 +141,7 @@ Each complaint is stored in the following structure:
 }
 
 
-🔐 Key Features
+ Key Features
 
 User-based data isolation
 
@@ -155,7 +155,7 @@ Modular frontend & backend
 
 Easy to scale for AI/ML analytics
 
-🚀 How to Run Locally (For Evaluation)
+ How to Run Locally (For Evaluation)
 Backend
 cd drishti/drishti-backend
 pip install -r requirements.txt
@@ -186,7 +186,7 @@ Heatmap & analytics visualization
 
 Predictive governance insights
 
-🏆 Why This Project Stands Out
+ Why This Project Stands Out
 
 Real-world governance relevance
 
